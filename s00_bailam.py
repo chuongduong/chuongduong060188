@@ -5,7 +5,7 @@ hi(name,gender)
 
 --- nopbai
 00 fork tu bainopmau tren replit tu trang web duoiday 
-   https://replit.com/@NamG1/toya03hinamegender
+ https://github.com/chuongduong/chuongduong060188/edit/main/s00_bailam.py
 
 01 lam bai vao tep s00_bailam.py, chay Run de co ketqua tatca la 1
 02a tao github repo, mo kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamurl tro den bailam nay
